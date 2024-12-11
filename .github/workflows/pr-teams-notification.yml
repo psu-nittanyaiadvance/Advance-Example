@@ -1,0 +1,44 @@
+name: PR Notification to Teams
+on:
+  pull_request:
+    types: [opened]  # Only trigger on opened PRs
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Send Teams Notification
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        script: |
+          const https = require('https');
+          const payload = JSON.stringify({
+            title: "New Pull Request",
+            prTitle: context.payload.pull_request.title,
+            prAuthor: context.payload.pull_request.user.login,
+            prUrl: context.payload.pull_request.html_url,
+            repoName: context.payload.repository.full_name  // This should correctly get the full repo name
+          });
+          
+          const options = {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              'Content-Length': Buffer.byteLength(payload)
+            }
+          };
+          
+          const req = https.request('${{ secrets.TEAMS_WORKFLOW_WEBHOOK_URL }}', options, (res) => {
+            console.log(`Status Code: ${res.statusCode}`);
+            res.on('data', (d) => {
+              process.stdout.write(d);
+            });
+          });
+          
+          req.on('error', (error) => {
+            console.error(error);
+          });
+          
+          req.write(payload);
+          req.end();
