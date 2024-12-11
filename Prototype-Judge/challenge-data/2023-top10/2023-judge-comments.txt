@@ -1,0 +1,113 @@
+Proposal Being Reviewed: CareerUP
+Impact (10 points): 7.583333333333333
+Feasibility (10 points): 7.166666666666667
+Implementation & Scaling (10 points): 7.5
+Team Capabilities (10 points): 8.0
+Technical Sophistication (10 points): 7.75
+Use of Artificial Intelligence & Machine Learning Technologies�(10 points): 7.666666666666667
+Use of Available Data (5 Points): 3.8333333333333335
+Interface Design Plans/Consumability (5 Points): 4.166666666666667
+Impact - Comments: Fantastic idea.  Could be a huge impact to college students entering the job market, I am honestly uncertain as to the impact this tool will have.  One of the challenges I think this tool will face is an audience who may not have the cultural/social capital to know to take advantage of such a thing.  It could be a huge barrier to adoption in my mind., The AI-powered career guidance and trajectory application is designed to address multiple barriers faced by underserved communities, including accessibility, language, and digital literacy., Excellent prototype ! The idea can have a huge impact on a global scale., The personas that you have collected are they hypothetical or are they based on actual potential customers you have reached out too? Outside of your usage of Chat GPT 3.5 and I would assume future versions of Chat GPT, what other existing solutions are you considering to leverage to develop the application? Have you determined if these solutions are accessible or are they proprietary? Do you have more specifics as to the actual process that will be used to get a consumer from start to finish? By process, I mean the actual integration tools being used to create a user friendly application. Have you gone out to your consumer and identified feasibility and consumer feedback as to the functionality and use of this application to determine adaptability. Have you done a financial assessment to determine break-even analysis? [Overall feedback included here]
+Feasibility - Comments: I think they are trying to do too much, This is almost impossible to pull off unless they buy data from third party companies. And that data does not come cheap., being as though they team is not developing the AI/ML technologies, this is a matter of programming the front end and back-end interfaces., Developing and maintaining an AI-powered application requires significant resources, both technical and financial.
+Implementation & Scaling - Comments: front-end app with an already-built back end that already scalable.  , There is no mention of how the technology or the work done to design the interface will address the issues faced by underserved populations (e.g., language, the actual culture of job searching, people with audiovisual challenges and other ability challenges, etc.)., the project's sustainability and scalability will be crucial for its long-term success., The team is on the right track to expand their data sources to include global perspectives. 
+Team Capabilities - Comments: the team seems highly capable of pulling off such an app. 
+Technical Sophistication - Comments: highly technical implementation, but very feasible with the team in place. , Beautifully documented with examples that clearly describe an end to end usage of the tool.
+Use of AI & ML Technologies - Comments: excellent use of AI/ML technologies, such as ChatGPT.  Will be interesting to see how this is all pulled together, GPT3.5 is a clever model to use for this problem . 
+Use of Available Data - Comments: 
+Interface Design Plans/Consumability - Comments: detailed information concerning how UI will evolve over time.  , Very well written documentation ! Good job team !!!
+Total: 53.666666666666664
+
+Proposal Being Reviewed: Earality
+Impact (10 points): 7.666666666666667
+Feasibility (10 points): 6.5
+Implementation & Scaling (10 points): 6.666666666666667
+Team Capabilities (10 points): 7.083333333333333
+Technical Sophistication (10 points): 7.333333333333333
+Use of Artificial Intelligence & Machine Learning Technologies�(10 points): 7.833333333333333
+Use of Available Data (5 Points): 3.75
+Interface Design Plans/Consumability (5 Points): 3.1666666666666665
+Impact - Comments: Seems to be foundational work, even if it has no immediate business value, it could end up being acquired by other big tech companies, while I understand the sentiment behind earality, I see little commercial impact., The use of the modified SELDnet algorithm and the incorporation of features like residue and speech/public announcement detection show great potential for improving the quality of life for the DHH community., Great idea ! This prototype has potential for huge depth of impact to the DHH.,  Have you taken this concept to your end user to identify interest and feasibility? If DHH is the intended user of this device, have you considered what education may be needed to ensure the program is used properly? I would more clearly outline the technology proposed to be used to construct your product. Currently you have several different layers of technology solutions, some existing and some proposed. What does the final prototype look like? Do you have a financial model which considers a break-even analysis? [Overall feedback included here.]
+Feasibility - Comments: I'm still not sure if this is a software/hardware device.  That wasn't clearly explained., The MVP documentation is confusing. I am not sure if the MVP proposed to be tested on users is going to be an actual headset/glass ? I am concerned that this may take more time than what is documented.
+Implementation & Scaling - Comments: once again, I'm not sure what this is precisely, The solution is scalable and has many applications outside of the DHH community. 
+Team Capabilities - Comments: gifted team of individuals, but without a clear sense of what the product is, it's hard to say whether or not they could pull this off, Developing the technology is only one aspect of the potential solution. An interdisciplinary team would be better equipped to address the problem and design a more effective solution.
+Technical Sophistication - Comments: Technical approach is very well documented.
+Use of AI & ML Technologies - Comments: excellent use of AI/ML, but applicability is limited., AI algorithms are thoroughly explained and the model output seems promising ! 
+Use of Available Data - Comments: 
+Interface Design Plans/Consumability - Comments: It's a functional interface, but it would need to improved a lot to be of use to intended users., once again, I'm not sure what the product is exactly, This is the one area that I think a lot of human-centered design could bring the interface to something finely tuned for every-day use., My comments are similar to the MVP feasibility comments. I figured that an AR headset could be the possible tool from the model output . It would help if the team mentioned that clearly in the documentation.
+Total: 50.0
+
+Proposal Being Reviewed: Intern Quest
+Impact (10 points): 8.090909090909092
+Feasibility (10 points): 8.363636363636363
+Implementation & Scaling (10 points): 7.818181818181818
+Team Capabilities (10 points): 7.909090909090909
+Technical Sophistication (10 points): 7.2727272727272725
+Use of Artificial Intelligence & Machine Learning Technologies�(10 points): 7.181818181818182
+Use of Available Data (5 Points): 3.8181818181818183
+Interface Design Plans/Consumability (5 Points): 3.727272727272727
+Impact - Comments: Good project, it was only a matter of time until we started getting pitched ChatGPT ideas., I see applicability well beyond interns.  This can be used by entry and mid-career individuals, I think that this tool could be impactful, but I think that there are a number of moving parts to this that would need to be tested "in the wild" to see what adoption really looks like and what concerns and issues arise from people using such a technology, etc., The prototype is brilliantly done. This has a huge significant impact to help so many college students across the world to land their dream job.,  Have you done a thorough competitive analysis for your application? What other applications have been developed in an effort to address resume inefficiency? Have you taken your concept to your intended consumer to gather key input on the design and functionality? Have you created a financial model for your project which includes a break-even analysis? [Overall feedback included here]
+Feasibility - Comments: 
+Implementation & Scaling - Comments: The scope of this solution is not just limited to students but can be extended to any employer seeking a new career. The addition of an interview prep tool is excellent ! 
+Team Capabilities - Comments: I appreciate the fact you have developed so far in such little time, an excellent team of individuals that seem more than capable of executing on this idea.
+Technical Sophistication - Comments: I love the resume builder and interview practice engine. , Technical approach is beautifully written . 
+Use of AI & ML Technologies - Comments: 
+Use of Available Data - Comments: 
+Interface Design Plans/Consumability - Comments: The interface design is probably this project's weakest point at the moment., UI design is really good ! The team could think about maybe creating a community tab to help students interact with other applicants who have had success using your tool.
+Total: 54.18181818181818
+
+Proposal Being Reviewed: Therapeutrack
+Impact (10 points): 7.4
+Feasibility (10 points): 6.6
+Implementation & Scaling (10 points): 6.9
+Team Capabilities (10 points): 7.5
+Technical Sophistication (10 points): 7.1
+Use of Artificial Intelligence & Machine Learning Technologies�(10 points): 7.5
+Use of Available Data (5 Points): 3.7
+Interface Design Plans/Consumability (5 Points): 3.8
+Impact - Comments: I can see how this would gain traction, I like the idea to remind patients to journal but I am not sold out on the idea of a chatbot writing a journal entry for the patient. Journaling is a form of expression that I think has the most impact when a patient writes it themselves whether in a good or bad mood. There are journaling apps that allow a user to make entries. Based on how serious a patient's mental health is , a chat bot checking in on them may or may not be helpful. There is also the factor of privacy. I am not sure how many patients would be willing to send their therapist journal entries., Have you done a thorough competitive analysis for your application? What other applications have been developed in an effort to address this issue. Have you taken your concept to your intended consumer to gather key input on the design and functionality? Have you considered that a big hurdle in this population is engagement and acceptance. How do you plan to engage individuals to join the community you are trying to create with these limitations? Have you created a financial model for your project which includes a break-even analysis? [Overall feedback included here.]
+Feasibility - Comments: feasible as many therapy apps are moving to the cloud and before long, they'll be using AI
+Implementation & Scaling - Comments: this would scale very well, To meet the needs of a large user base , the team would need to consult therapists and gain feedback from people to know the usability of the tool. 
+Team Capabilities - Comments: team is quite capable of developing map
+Technical Sophistication - Comments: Technology stack is well explained.
+Use of AI & ML Technologies - Comments: 
+Use of Available Data - Comments: 
+Interface Design Plans/Consumability - Comments: UI design looks nice but the team would require solid feedback from potential users/therapists on the consumability of the tool.
+Total: 50.5
+
+Proposal Being Reviewed: TransferMaster
+Impact (10 points): 6.9
+Feasibility (10 points): 7.6
+Implementation & Scaling (10 points): 7.0
+Team Capabilities (10 points): 7.7
+Technical Sophistication (10 points): 7.3
+Use of Artificial Intelligence & Machine Learning Technologies�(10 points): 7.4
+Use of Available Data (5 Points): 4.0
+Interface Design Plans/Consumability (5 Points): 3.3
+Impact - Comments: Unlikely that something like this would even be adopted by even Penn State, the impact of a project like this can be huge.  When I first started at Penn State, transferring credits was a pain and took more than a year.  , I am not certain as to the impact this tool will have.  While I recognize the fact that the handling of transfer credits is a tedious and labor-intensive process, I also recognize that there are so many cases where just one thing could require a human in the loop and I suspect in general, a human is going to have to be in the loop more often then not.  Will it speed up some aspects of the process?  Perhaps., limited audience and use case , Very interesting idea ! It would have been more impactful to get actual testimonials from fauclty members or students at penn State, Have you done a thorough competitive analysis for your application? Have you taken your concept to your intended consumer to gather key input on the design and functionality? How will the application address changes made to entrance requirements by each individual major being selected? Since a transcript is only one part of the admissions process, how will this be easily streamlined with the other steps taken before acceptance occurs? Have you created a financial model for your project which includes a break-even analysis? [Overall feedback included here.]
+Feasibility - Comments: definitely feasible product.  
+Implementation & Scaling - Comments: will such a capable team, scaling and implementation should not be a problem, I am also deeply skeptical that this tool can work to support other institutions.  As someone who works in this space currently comparing how PSU does work to other institutions - it is a huge problem to which there is no easy plug and play solution., I can see that the app can be scaled to help faculty/students in universities across the country . Again it would be helpful to have testimonials from the targeted audience
+Team Capabilities - Comments: the team is very capable of creating an MVP
+Technical Sophistication - Comments: Good explanation of the technical approach . The flowcharts/diagrams aid in visual representation of the technology stack.
+Use of AI & ML Technologies - Comments: 
+Use of Available Data - Comments: Good explanation of the data sources. Is there any alternative for the testing data other than Open Syllabus? This will be critical to improve accuracy of your model.
+Interface Design Plans/Consumability - Comments: interface design could use some improvements, but overall an excellent job, UI design looks simple and neat. It would have been nice to see a statistic on the number of faculty members / students  who would be interested to use this tool or from people the team intends  to get feedback from?
+Total: 51.199999999999996
+
+Proposal Being Reviewed: Trinity
+Impact (10 points): 7.4
+Feasibility (10 points): 6.0
+Implementation & Scaling (10 points): 5.9
+Team Capabilities (10 points): 6.2
+Technical Sophistication (10 points): 6.3
+Use of Artificial Intelligence & Machine Learning Technologies�(10 points): 7.0
+Use of Available Data (5 Points): 3.7
+Interface Design Plans/Consumability (5 Points): 3.3
+Impact - Comments: Similar tools exist in industry, but I'm assuming that this tool is being built for common homeowners, who might be interested in finding the water quality in their house. Would a significant number of people be interested in finding out (especially since I would have to also buy hardware)? Unsure, this might be a niche market of consumers., this has huge implications for all parts of the world, network connectivity in developing countries could be an issue.  Can you store the data and then upload once network connectivity is available , The prototype is impactful and has great potential to help people in rural areas., Have you done a thorough competitive analysis for your application? What other applications have been developed in an effort to address this issue? Have you taken your concept to your intended consumer to gather key input on the design and functionality? Have you considered that a big hurdle in this population is accessibility and technology competence as most areas that have water quality and accessibility concerns also have limited resources and accessibility to technology. How do you plan to engage individuals to join the community you are trying to create with these limitations? Have you created a financial model for your project which includes a break-even analysis? [Overall feedback included here.]
+Feasibility - Comments: anything that uses a hardware component will be a challenge to develop, I think the team should be wary of labelling data as based on the size of the dataset , it can take a good chunk of your time.
+Implementation & Scaling - Comments: implementation and scalability will be a problem due to hardware used to support the application, The solution can be of great help to many people across the globe. I love the idea of creating a community on the app . This can also connect people around the locality.
+Team Capabilities - Comments: while the team has some strengths, particularly data science, program, AI/ML
+Technical Sophistication - Comments: Technical approach was explained very well.
+Use of AI & ML Technologies - Comments: 
+Use of Available Data - Comments: 
+Interface Design Plans/Consumability - Comments: UI design is nice . The team could have done a better job explaining the MVP pipeline in depth.
+Total: 45.8

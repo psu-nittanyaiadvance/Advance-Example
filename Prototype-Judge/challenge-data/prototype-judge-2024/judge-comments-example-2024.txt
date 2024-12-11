@@ -1,0 +1,34 @@
+Project Name: 12 - SPECTRUM STORIES
+Innovation & Technical Merit (10 points): 4.5
+Impact & Relevance (10 points): 4.0
+User Experience & Accessibility (10 points): 2.5
+Ethical Considerations (10 points): 2.5
+Feasibility & Implementation (10 points): 4.5
+Total Score (50 possible): 18.0
+Comments to help explain your scores.: I think overall this is a neat idea, however the "user" role was not clearly defined, it was not clear where the team was gathering the necessary information to tailor the neuro-divergent category to, nor was their a feedback loop to ensure that the generated content aligned with the target audience.  There also wasn't any prototype, rather a flowchart for a process. The project is a nice integration of LLM and generative image technologies. No working prototype demonstrated, which limits overall scores.  Could further address ethical issues (e.g. potential for misuse of copyrighted material, consequences if software produces unsuitable imagery. 
+Recommendations for the team to help them improve upon their prototype.: I'd recommend clearly defining the user role as this will impact everythign else.  My assumption was the "user" was a story creator.  If that is the case, how do they build out requirements for each neuro-divergent category?  How do they interact with the app/software?  Once a story is generated, how to they make sure in meetgs the needs of the targeted neuro-divergenct category?  How long does this entire process take, if they want to make 100's or 1000's of books.   Recommend sourcing training data from consenting authors and illustrators.  Recommend implementing system for feedback or remediation of generated imagery is unsuitable
+
+Project Name: 18 - Meal Prep Pro
+Innovation & Technical Merit (10 points): 5.0
+Impact & Relevance (10 points): 6.5
+User Experience & Accessibility (10 points): 5.5
+Ethical Considerations (10 points): 6.5
+Feasibility & Implementation (10 points): 6.0
+Total Score (50 possible): 29.5
+Comments to help explain your scores.: The idea is well explained but spends most of the time setting context and could spend more demonstrating a working prototype.   Technology is a good combination of existing tools to accomplish a feasible goal. 1. After reading the write up and watching the video, it was unclear to me what AI/ML techniques would be used.  As a reviewer, it would have helped me to have additional technical details.
+2. I feel the team seems to to addressing a much needed problem.  And I would have liked to understand exactly how this addresses the problem.  This seems to focus on meal planning and groceries.  But as a user, I am uncertain how exactly it helps beyond a simple web search.
+3. The prototype demonstrated in the video seems intuitive.  I am less certain on the details.
+4. The team does say that user information is not going to be shared.  As a reviewer, I am not clear on how this is addressed.  Is it just policy?  Or do they provide encrypted data?
+5. This seems feasible.  Although I am uncertain on what techniques are involved and how those would be implemented.
+Recommendations for the team to help them improve upon their prototype.: I recommend making sure that nutritional algorithms are validated and that the app checks for potentially unrealistic weight goals.  
+
+Project Name: 31 - KinderVerse
+Innovation & Technical Merit (10 points): 8.0
+Impact & Relevance (10 points): 8.0
+User Experience & Accessibility (10 points): 8.0
+Ethical Considerations (10 points): 8.0
+Feasibility & Implementation (10 points): 9.0
+Total Score (50 possible): 41.0
+Comments to help explain your scores.:  Feasible; useful; broad use of ML
+Recommendations for the team to help them improve upon their prototype.:  Deciding what is moral-based can be problematic. Consider providing a way for parents to shape what they consider moral, perhaps by enabkling parent to submit examples/statement that can be used in the reading selection process  and/or fine tuning processes.
+

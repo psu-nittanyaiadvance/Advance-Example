@@ -1,0 +1,364 @@
+Project Name: 12 - SPECTRUM STORIES
+Innovation & Technical Merit (10 points): 4.5
+Impact & Relevance (10 points): 4.0
+User Experience & Accessibility (10 points): 2.5
+Ethical Considerations (10 points): 2.5
+Feasibility & Implementation (10 points): 4.5
+Total Score (50 possible): 18.0
+Comments to help explain your scores.: I think overall this is a neat idea, however the "user" role was not clearly defined, it was not clear where the team was gathering the necessary information to tailor the neuro-divergent category to, nor was their a feedback loop to ensure that the generated content aligned with the target audience.  There also wasn't any prototype, rather a flowchart for a process. The project is a nice integration of LLM and generative image technologies. No working prototype demonstrated, which limits overall scores.  Could further address ethical issues (e.g. potential for misuse of copyrighted material, consequences if software produces unsuitable imagery. 
+Recommendations for the team to help them improve upon their prototype.: I'd recommend clearly defining the user role as this will impact everythign else.  My assumption was the "user" was a story creator.  If that is the case, how do they build out requirements for each neuro-divergent category?  How do they interact with the app/software?  Once a story is generated, how to they make sure in meetgs the needs of the targeted neuro-divergenct category?  How long does this entire process take, if they want to make 100's or 1000's of books.   Recommend sourcing training data from consenting authors and illustrators.  Recommend implementing system for feedback or remediation of generated imagery is unsuitable
+
+Project Name: 13 - AdvIsor
+Innovation & Technical Merit (10 points): 6.5
+Impact & Relevance (10 points): 6.0
+User Experience & Accessibility (10 points): 5.5
+Ethical Considerations (10 points): 4.0
+Feasibility & Implementation (10 points): 5.0
+Total Score (50 possible): 27.0
+Comments to help explain your scores.: Regarding my scores, I would have liked to have seen/heard something that makes this stand out from your everyday chat bot.  It's clear there is a ton going on under-the-hood, but adding features to make this stand out would be great.  I thought it was great that you took into consideration students who don't speak english, but that was only mentioned but not demoed.  The same goes for security.   Concept addresses an interesting problem.  Prototype only briefly shown and could better demonstrate technical workings.   It will be impossible for AdvIsor to function well without access to student academic data and this should be addressed.  Another potential concern is if hallucinations cause poor advice, which can disrupt academic plans. 
+Recommendations for the team to help them improve upon their prototype.: Overall I thought this was a great idea and its clear that there is a need for students to have better access to university resources.  I think adding features to the UI to make it more impactful would be great, maybe saving conversation threads, a list of links that the chatbot might point you to, etc.  It would also be helpful to mention somewhere what languanges it can understand or have some sort of button to call that out.  Going into details on security and also be helpful. Recommend the app requires access to student academic data, even though this greatly increases privacy requirements.  Recommend app validates all recommended academic plans with expert system. 
+
+Project Name: 14 - Vericheck AI
+Innovation & Technical Merit (10 points): 6.5
+Impact & Relevance (10 points): 5.5
+User Experience & Accessibility (10 points): 5.5
+Ethical Considerations (10 points): 4.5
+Feasibility & Implementation (10 points): 6.5
+Total Score (50 possible): 28.5
+Comments to help explain your scores.: As a parent of 3 young children, I really like this idea.  My concern regarding relevance and impact revolved around this being a web-based API.  90% of youtube content is consumed via a mobile device, so if there isn't a way to install this over the native youtube app, the impact will be minimal.  Furthermore, while adults may be curious about lengthy descriptions on the data validity, children/teenagers likely just want the highlights, with the option to dive deeper.  I think it may be important to target one of those audiences. Plan addresses an important topic in a feasible fashion.  Poor quality of youtube autocaptions is likely to only be partially addressed by use of additional autotranslation software.  
+Recommendations for the team to help them improve upon their prototype.: Considerations for applying this to native youtube and tiktoks apps is cruicial if this is going to have impact going forward.  I think there will also always be a question of "who is doing the fact-checking" so being transparent about those sources is also key.  Lastly, the organization of the data being displayed should be examined, but this goes back to the target audience.  Regardless, making clear, easy to ready bits of information will increase the likelihood the data is used. There are ethical considerations to address concerning the possibility for the LLM to hallucinate and provide false context.  
+
+Project Name: 15 - Project Green Thumb
+Innovation & Technical Merit (10 points): 6.0
+Impact & Relevance (10 points): 6.0
+User Experience & Accessibility (10 points): 5.0
+Ethical Considerations (10 points): 5.0
+Feasibility & Implementation (10 points): 6.0
+Total Score (50 possible): 28.0
+Comments to help explain your scores.: An interesting idea.   Video contains a lot of context setting and could take more opportunity to inspect technical aspects of project.   Sources of other important environmental data for plant health could be better described.  
+Recommendations for the team to help them improve upon their prototype.: The generation of attractive and professional looking 3d environments from text prompts seems extremely challenging.  Image generation may be an easier route.  Recommend researching validation checks to ensure the app does not give poor advice
+
+Project Name: 16 - Yuva
+Innovation & Technical Merit (10 points): 6.5
+Impact & Relevance (10 points): 5.5
+User Experience & Accessibility (10 points): 6.0
+Ethical Considerations (10 points): 6.5
+Feasibility & Implementation (10 points): 7.5
+Total Score (50 possible): 32.0
+Comments to help explain your scores.: A useful use of generative AI for marketing attached to a broader app ecosystem.  Much of the video was spent on the app and more could have been spent on the ML component.    Working demo of AI component was not apparent.   1. Demonstrates advanced use of AI/ML techniques; 
+2. The team seems to be addressing a relevant problem for small business.
+3. Overall, it was difficult to assess usability of the app.
+4. Seems to address issues with data privacy; but unclear how it protects users/businesses from misuse of the product.
+5. Uses well know ML techniques and use of ChatGBT.  Seems feasible from a technical standpoint, but I am less convinced of this from a business standpoint.  How do you drive users to the platform?
+Recommendations for the team to help them improve upon their prototype.: Major players in the field use robust sources of user data (tracking cookies, etc...)  Good user provided data is hard to come by.   Recommend at least including the option for human editing of generated content 
+
+Project Name: 17 - Mental Health AI Coach
+Innovation & Technical Merit (10 points): 4.5
+Impact & Relevance (10 points): 6.5
+User Experience & Accessibility (10 points): 7.0
+Ethical Considerations (10 points): 2.5
+Feasibility & Implementation (10 points): 8.0
+Total Score (50 possible): 28.5
+Comments to help explain your scores.: An earnest idea with good technical explanations.  There are deep ethical problems with replacing trained health professionals with computerized systems that need to be addressed.  The consequences for hallucination or bad advice could be severe.   1. Focus is on LLM and use.  Although LLM is innovative, the use seems to be fairly routine for LLM.
+2. Tackles a problems that is obviously relevant to a number of college students.
+3. user experience seems intuitive – i.e. chat-like interface
+4. No acknowledgment of ethic or HIPPA concerns.  Protection of user information would seem to be critical for such an app.
+5. Overall, this seems quite feasible.  It takes advantage of commercial LLM.
+Recommendations for the team to help them improve upon their prototype.: Computerized therapy need strong safeguards to ensure patient wellness.  For example a failsafe for human intervention if the conversation turns to self-harm or destructive behavior.  
+
+Project Name: 18 - Meal Prep Pro
+Innovation & Technical Merit (10 points): 5.0
+Impact & Relevance (10 points): 6.5
+User Experience & Accessibility (10 points): 5.5
+Ethical Considerations (10 points): 6.5
+Feasibility & Implementation (10 points): 6.0
+Total Score (50 possible): 29.5
+Comments to help explain your scores.: The idea is well explained but spends most of the time setting context and could spend more demonstrating a working prototype.   Technology is a good combination of existing tools to accomplish a feasible goal. 1. After reading the write up and watching the video, it was unclear to me what AI/ML techniques would be used.  As a reviewer, it would have helped me to have additional technical details.
+2. I feel the team seems to to addressing a much needed problem.  And I would have liked to understand exactly how this addresses the problem.  This seems to focus on meal planning and groceries.  But as a user, I am uncertain how exactly it helps beyond a simple web search.
+3. The prototype demonstrated in the video seems intuitive.  I am less certain on the details.
+4. The team does say that user information is not going to be shared.  As a reviewer, I am not clear on how this is addressed.  Is it just policy?  Or do they provide encrypted data?
+5. This seems feasible.  Although I am uncertain on what techniques are involved and how those would be implemented.
+Recommendations for the team to help them improve upon their prototype.: I recommend making sure that nutritional algorithms are validated and that the app checks for potentially unrealistic weight goals.  
+
+Project Name: 19 - LIGO
+Innovation & Technical Merit (10 points): 4.33
+Impact & Relevance (10 points): 5.0
+User Experience & Accessibility (10 points): 5.0
+Ethical Considerations (10 points): 8.33
+Feasibility & Implementation (10 points): 5.33
+Total Score (50 possible): 28.0
+Comments to help explain your scores.: The video had a nice description of the technical aspects of the prototype, although the actual ML component is not demonstrated.  There are some privacy issues with scraping, which are mentioned 1. The team demonstrate a use of Cosine similarity between two vector spaces (interests vs events).  This seems to be similar to other recommendation type engines and perhaps is less innovative use of AI/ML techniques.
+2. Although LIGO seems to address a need, I am not sure how impactful this would be to a user.  As a user, I am not sure how it would help me.
+3. The video demonstrated what seems to be a fairly intuitive interface.  I am not certain though how inputs like instagram and other social media gets into the system.
+4. The team did a good job at addressing the privacy issues.  This was particularly strong.
+5. As a reviewer, I am not yet convinced of the feasibility.  Not from a technical standpoint, but more on the data side.  How are you going to find hard to find events and activities? I don't fully understand how the public data will make its way into the application. I also thought the write-up could have been a little cleaner. 
+Recommendations for the team to help them improve upon their prototype.: Accessibility as a UI term refers to UI design that is accessible to people with disabilities such as color blindness or impaired vision.   I think this is a real problem; however, I don't fully understand or believe the data collection method is sound. I think partnering with an app like the engagement app and driving users to a single platform with advanced AI would be a stronger selling point than trying to collect from the various sources. 
+
+Project Name: 20 - Atlas Biotech
+Innovation & Technical Merit (10 points): 6.33
+Impact & Relevance (10 points): 8.0
+User Experience & Accessibility (10 points): 3.33
+Ethical Considerations (10 points): 4.33
+Feasibility & Implementation (10 points): 5.67
+Total Score (50 possible): 27.67
+Comments to help explain your scores.: Logistic regression is a well understood tool and could do a lot in this context.  The video spends a lot of time setting context and could spend more demoing prototype and describing technical results.  For example the validation strategy for presented AUC results is not provided.   1.The team talks about experimenting with use of various techniques – State vector machines, random forest etc…  There use of these techniques seems to be similar to other classifiers.
+2. Overall, I came away that finding the right treatment based on several parameters is something useful and could benefit a patient in their quest for a cure.
+3. As a Reviewer it was not clear how simple the system was to use.  Not enough detail to assess.
+4. No mention of complying to HIPPA standards. Data privacy was not addressed well.
+5. This seems feasible.  Although I am not convinced of the availability of enough data sets for training.  This is perhaps my biggest concern of the technical approach. Really need idea that could have major impact. However, like most medical applications, I think there is some real risk here related to legal implications for medical "guidance" and the use of personal medical data. That said, if these can be further explained and mitigated, I think there could be real potential for significant impact. I did not see a prototype to evaluate. 
+Recommendations for the team to help them improve upon their prototype.: I recommend using distance to class centroids or something similar as a confidence metric to understand when the regression is potentially no longer valid  Really need idea that could have major impact. However, like most medical applications, I think there is some real risk here related to legal implications for medical "guidance" and the use of personal medical data. That said, if these can be further explained and mitigated, I think there could be real potential for significant impact. I did not see a prototype to evaluate. 
+
+Project Name: 21 - Sage Art
+Innovation & Technical Merit (10 points): 3.5
+Impact & Relevance (10 points): 4.0
+User Experience & Accessibility (10 points): 5.0
+Ethical Considerations (10 points): 5.0
+Feasibility & Implementation (10 points): 7.5
+Total Score (50 possible): 25.0
+Comments to help explain your scores.: 1. It is not clear what innovation the team has,  It seems like they are using relatively known art generation apis to generate art from their interface.
+2. Although interesting, as a user I am not sure how much this addresses a need education, environment etc…
+3. The users experience was difficult to assess.  
+4. There was no mention of protecting user data and data rights.
+5.  Overall, the project seems feasible and seems to be under development. Overall, I think this is a neat application, but if I understand correctly, it's essentially just integrating existing AI applications. I'm not sure there's any significant innovation here. Also, will there be issues down the road with all the dependencies on other AI applications? I give some extra points for having some notional wire frames for a prototype. 
+Recommendations for the team to help them improve upon their prototype.:  Overall, I think this is a neat application, but if I understand correctly, it's essentially just integrating existing AI applications. I'm not sure there's any significant innovation here. Also, will there be issues down the road with all the dependencies on other AI applications? I give some extra points for having some notional wire frames for a prototype. 
+
+Project Name: 22 - CropNSoil
+Innovation & Technical Merit (10 points): 8.0
+Impact & Relevance (10 points): 8.0
+User Experience & Accessibility (10 points): 3.0
+Ethical Considerations (10 points): 4.0
+Feasibility & Implementation (10 points): 7.5
+Total Score (50 possible): 30.5
+Comments to help explain your scores.: 1. Use of SVM and RNN to analyze crop data, farm information and enviromental data to provide best crop rotation for multi-cropping
+2. The team is addressing a relevant need.  Strong pints mentioned wrt grow of population and overuse of pesticides and fertilizers.
+3. Unclear data interface, was uncertain how data would be input.  Difficult to assess.
+4. No mention of data protection.
+5. The team’s solution seems feasible. This seems like it could be useful, but it would seem farmers already do this. What is the current state? I'm not a farmer, but I notice fields around where I live alternate crops each year. How would this tool provide something different? What if it's recommendation is not something the farmer typically farms? Will this take revenue / cost of farming of products into consideration? If not doing realtime analysis with a suite of sensors, why wouldn't someone just collect soil samples and develop a plan each year? 
+Recommendations for the team to help them improve upon their prototype.:  This seems like it could be useful, but it would seem farmers already do this. What is the current state? I'm not a farmer, but I notice fields around where I live alternate crops each year. How would this tool provide something different? What if it's recommendation is not something the farmer typically farms? Will this take revenue / cost of farming of products into consideration? If not doing realtime analysis with a suite of sensors, why wouldn't someone just collect soil samples and develop a plan each year? 
+
+Project Name: 23 - Weavix
+Innovation & Technical Merit (10 points): 5.5
+Impact & Relevance (10 points): 5.0
+User Experience & Accessibility (10 points): 4.5
+Ethical Considerations (10 points): 6.0
+Feasibility & Implementation (10 points): 6.5
+Total Score (50 possible): 27.5
+Comments to help explain your scores.: 1. Weavix is a digital marketing tool  It is not clear to me how innovative the use of AI/ML.  It mentions use of algorithms, but not clear what/how.
+2. This seems like a problem, but not necessarily one that this challenge was addressing e.g. environmental, humanitarian…
+3. The user experience was difficult to assess.
+4. No mention of data protection or data rights.
+5. The approach is likely feasible, but there seems to be gaps in the proposed solution. Good example of what could be produced, but didn't see an example of the actual user experience other than the explanation. 
+Recommendations for the team to help them improve upon their prototype.:  YES! This is so needed! There was some mention of existing platforms. I don't know much about these, but I would be curious to learn more and understand how you will differentiate yourself. Also, what about providing your own content rather than sourcing from AI or other places? I *think* that was highlighted in the example, but it wasn't real clear through the other explanations. 
+
+Project Name: 24 - AIthleteZone
+Innovation & Technical Merit (10 points): 8.0
+Impact & Relevance (10 points): 8.0
+User Experience & Accessibility (10 points): 6.5
+Ethical Considerations (10 points): 7.0
+Feasibility & Implementation (10 points): 5.0
+Total Score (50 possible): 34.5
+Comments to help explain your scores.: 1. The team demonstrated a use of AI techniques that they will utilize – CNN.
+2. The app seems to address a need for improving the wearers fitness.
+3. User experience is seemingly straight forward.  
+4. The team mentioned protecting data, but not the details of how they would achieve this.
+5. I am uncertain how the app really works to address workout posture and assess correct exercise form. I was a little lost on how the app will determine correct physical movements. Does there need to be integration with a phone / camera? My ratings here assume that there's some sort of camera integration; otherwise, I would give significantly lower scores for Innovation and Feasibility as I find it hard to believe that posture could be determined by watch movement. That said, even with some sort of video inclusion, there will need to be some sort of physical device to hold the phone as part of this product. If this application works as I think it may, it could have HUGE potential for various other applications. One personally close to me is in at-home training for martial arts. As a former martial arts school owner, the ability to virtually coach a student (i.e. when the pandemic hit) is extremely difficult. This product could make at-home coaching / instruction much easier. 
+Recommendations for the team to help them improve upon their prototype.:  I was a little lost on how the app will determine correct physical movements. Does there need to be integration with a phone / camera? My ratings here assume that there's some sort of camera integration; otherwise, I would give significantly lower scores for Innovation and Feasibility as I find it hard to believe that posture could be determined by watch movement. That said, even with some sort of video inclusion, there will need to be some sort of physical device to hold the phone as part of this product. If this application works as I think it may, it could have HUGE potential for various other applications. One personally close to me is in at-home training for martial arts. As a former martial arts school owner, the ability to virtually coach a student (i.e. when the pandemic hit) is extremely difficult. This product could make at-home coaching / instruction much easier. 
+
+Project Name: 25 - iWatch
+Innovation & Technical Merit (10 points): 6.5
+Impact & Relevance (10 points): 7.5
+User Experience & Accessibility (10 points): 6.5
+Ethical Considerations (10 points): 6.0
+Feasibility & Implementation (10 points): 5.0
+Total Score (50 possible): 31.5
+Comments to help explain your scores.: 1. Team use of image recognition.  Well know use of algorithms, nothing particularly innovative.
+2. I can see this addressing an environmental issue.  I would argue that this could expand to other species – plants, fish etc…
+3. The UI is straight forward.
+4. No data privacy mentioned.
+5. The initial prototype is seemingly feasible.  The Iwatch name is like Tm by apple. Seems great, but my biggest concern is who will use this? I agree the process for reporting is painful. The process for inspecting a PSU rental car is equally painful. Outside of PSU policy that requires me to do this, I wonder how many others are actually inspired to make a report. What are reporting statistics? Do you have user data that indicates those numbers would be greater if the process was easier? Spotted lantern flies seemed like a huge thing -- are they becoming more normalized? If so, what other invasive species should we care about?? I think the idea here is great, but I think it could be a really cool product that no one takes time to use in its current proposed state. Could this somehow be integrated with another application for use in hobbyist activities?
+Recommendations for the team to help them improve upon their prototype.:  Seems great, but my biggest concern is who will use this? I agree the process for reporting is painful. The process for inspecting a PSU rental car is equally painful. Outside of PSU policy that requires me to do this, I wonder how many others are actually inspired to make a report. What are reporting statistics? Do you have user data that indicates those numbers would be greater if the process was easier? Spotted lantern flies seemed like a huge thing -- are they becoming more normalized? If so, what other invasive species should we care about?? I think the idea here is great, but I think it could be a really cool product that no one takes time to use in its current proposed state. Could this somehow be integrated with another application for use in hobbyist activities?
+
+Project Name: 26 - Notegrab
+Innovation & Technical Merit (10 points): 7.0
+Impact & Relevance (10 points): 7.0
+User Experience & Accessibility (10 points): 5.0
+Ethical Considerations (10 points): 8.0
+Feasibility & Implementation (10 points): 6.0
+Total Score (50 possible): 33.0
+Comments to help explain your scores.: This app seems very promising! Can you make an instructor version? :)
+Overall, I think this is good, but I didn't see a lot regarding customization for the user as you described. How will you collect feedback from the individual to learn more about their learning style? Or is this simply part of the quiz customization features? Also, will this allow for video inputs from say recorded lectures, linkedin learning, or youtube? 
+Recommendations for the team to help them improve upon their prototype.: This app seems very promising! Can you make an instructor version? :)
+Overall, I think this is good, but I didn't see a lot regarding customization for the user as you described. How will you collect feedback from the individual to learn more about their learning style? Or is this simply part of the quiz customization features? Also, will this allow for video inputs from say recorded lectures, linkedin learning, or youtube? 
+
+Project Name: 28 - TasteMate
+Innovation & Technical Merit (10 points): 5.0
+Impact & Relevance (10 points): 4.5
+User Experience & Accessibility (10 points): 6.5
+Ethical Considerations (10 points): 6.0
+Feasibility & Implementation (10 points): 6.0
+Total Score (50 possible): 28.0
+Comments to help explain your scores.: Cold start problem not adequately addressed ; would like to see  specifics on data and plans for tailoring the ML rather than generalities. The absolute worst part of adulting is meal planning! 
+That said, I think this is a really cool idea, but I fear it's an already crowded space. I've not personally subscribed to anything yet, but it seems there are a number of competitors already doing what you've proposed. A quick search on the web will bring these up along with some recent evaluations of these services (see CNN review: https://www.cnn.com/cnn-underscored/reviews/best-meal-planning-apps). As it stands, I think you need to differentiate yourselves from these in some signficant way.
+Recommendations for the team to help them improve upon their prototype.: Less superlatives and  more substance.  "op:mized by nearby, participating third-party vendors" - how? Focus on a primary market  and have pivot options in  reserve. The absolute worst part of adulting is meal planning! 
+That said, I think this is a really cool idea, but I fear it's an already crowded space. Are you proposing some combination of existing apps to include both recipes and weight management? I'm not super experienced with what's out there, and I've not personally subscribed to anything yet, but it seems there are a number of competitors already doing what you've proposed re: recipe generation. Apps like Noom will use AI and real coaches to assist with weight management goals and simple recipe suggestions. A quick search on the web for meal planning will bring up a number of other services (see CNN review: https://www.cnn.com/cnn-underscored/reviews/best-meal-planning-apps). I may have misunderstood your solution, but as it stands, I think you need to differentiate yourselves from these in some signficant way.
+
+Project Name: 29 - Trails
+Innovation & Technical Merit (10 points): 7.33
+Impact & Relevance (10 points): 7.67
+User Experience & Accessibility (10 points): 6.33
+Ethical Considerations (10 points): 7.67
+Feasibility & Implementation (10 points): 7.67
+Total Score (50 possible): 36.67
+Comments to help explain your scores.:  Feasible; useful; not ground breaking; broad/reasonable use of ML; diverse sourcing of data; incorporates user feedback. I love the idea of a one-stop shop, like a personal Penn State Concierge. I do think there will be a couple of challenges, though. First and most important, I think you need to determine what your immediate goals are. There's a lot going on with this app and tackling too much could cause a lot of effort with little result. For example, there are apps that are extremely complex and use AI-based algorithms JUST for mentoring (not to mention clubs and many depts across the college provide mentoring). Second, you may run into issues with Alumni using the tool. I think the SSO capability is important to manage accountability for posts, so I would keep this feature and maybe start with just current students. Otherwise, neat idea. 
+Recommendations for the team to help them improve upon their prototype.: The use case is excellent and could be widely used by colleges to help incoming students find and access resources available to them. Much of the fine-tuning data comes from the Penn State environment. Some indication of how the app would eventually be scaled to other institutions in an efficient way would be helpful. I love the idea of a one-stop shop, like a personal Penn State Concierge. I do think there will be a couple of challenges, though. First and most important, I think you need to determine what your immediate goals are. There's a lot going on with this app and tackling too much could cause a lot of effort with little result. For example, there are apps that are extremely complex and use AI-based algorithms JUST for mentoring (not to mention clubs and many depts across the college provide mentoring). Second, you may run into issues with Alumni using the tool. I think the SSO capability is important to manage accountability for posts, so I would keep this feature and maybe start with just current students. Otherwise, neat idea. 
+
+Project Name: 31 - KinderVerse
+Innovation & Technical Merit (10 points): 8.0
+Impact & Relevance (10 points): 8.0
+User Experience & Accessibility (10 points): 8.0
+Ethical Considerations (10 points): 8.0
+Feasibility & Implementation (10 points): 9.0
+Total Score (50 possible): 41.0
+Comments to help explain your scores.:  Feasible; useful; broad use of ML
+Recommendations for the team to help them improve upon their prototype.:  Deciding what is moral-based can be problematic. Consider providing a way for parents to shape what they consider moral, perhaps by enabkling parent to submit examples/statement that can be used in the reading selection process  and/or fine tuning processes.
+
+Project Name: 32 - Verita
+Innovation & Technical Merit (10 points): 7.0
+Impact & Relevance (10 points): 7.0
+User Experience & Accessibility (10 points): 5.67
+Ethical Considerations (10 points): 6.0
+Feasibility & Implementation (10 points): 5.33
+Total Score (50 possible): 31.0
+Comments to help explain your scores.: My scoring on the impact and user experience comes from the web-based nature of this project.  In my experience, navigating away from an app to check/research information is not typical user behavior.  So I'm concerned about the usability since its not something "built in". If a user is not already mindful of the issues, then there is little encourage them to change their behaviour.  There also wasn't a functional prototyple, but instead a flow chart. this project is not cleanly focused enough to be applied in a meaningful fashion - the goal is quite admirable, the mechanism of identifying truth needs much more thought Important application; it's a start; cross-checking information; but- how to address the fact that mis-inforrmation can be so prevalent in the sources used to train the underlyiing foundation models  that cross-checking ends up reinforcing the the mis-information
+Recommendations for the team to help them improve upon their prototype.: I think awareness of the issue and encoraging users to visit the site will be a hurdle, and something that should be considered as you move forward.  Also, is there a limit to what kinds of social media platforms will be available at launch?   I think there will also always be a question of "who is doing the fact-checking" so being transparent about those sources is also key.   Highlighting truth and lies is an excellent goal, I would like to see this developed on a fairly granular level for the reader to evaluate  The more you can  address the fact that mis-information can be so prevalent  in the sources used to train  the underlying foundation models that cross-checking ends up reinforcing the mis-information. 
+
+Project Name: 33 - AccentEase
+Innovation & Technical Merit (10 points): 7.67
+Impact & Relevance (10 points): 8.0
+User Experience & Accessibility (10 points): 7.0
+Ethical Considerations (10 points): 7.0
+Feasibility & Implementation (10 points): 7.67
+Total Score (50 possible): 37.33
+Comments to help explain your scores.: If you are just using Google S2T and T2S you are both helped and limited by what Google is trained for - ideally you could add training on a specific individual accent to the LLM - you will also need good recorded conten Feasible to an above average extent; useful; sensable use of ML; But, estabishing a sufficiently large set of accents seems problematic Overall, the submission provides a thorough understanding of the problem, a well-defined solution approach, and a feasible plan for implementation using AI platforms. Given the sensitive nature of educational content and user data, make sure toprioritize robust data privacy and security measures. While the solution aims to enhance accessibility by making educational content more comprehensible, ensure that it is accessible to students with diverse learning needs, including those with visual or hearing impairments. Consider incorporating features such as text-to-speech for visually impaired users or closed captioning for hearing-impaired users.
+Recommendations for the team to help them improve upon their prototype.: If you are just using Google S2T and T2S you are both helped and limited by what Google is trained for - ideally you could add training on a specific individual accent to the LLM - you will also need good recorded conten Consider making the set of target accents extensable. While the submission outlines the technical aspects and functionality of the proposed solution, it could benefit from incorporating potential user feedback or insights gathered from students experiencing difficulty due to accents. Understanding specific pain points and preferences could further refine the solution's design and features.
+
+Project Name: 34 - Diagno
+Innovation & Technical Merit (10 points): 6.33
+Impact & Relevance (10 points): 7.33
+User Experience & Accessibility (10 points): 4.33
+Ethical Considerations (10 points): 4.33
+Feasibility & Implementation (10 points): 5.0
+Total Score (50 possible): 27.33
+Comments to help explain your scores.: Well meaning project, however the assumption that psychiatric patients can be easily diagnosed from an LLM analysis of conversation with Dr seems oversimplified and difficult to do in reality - part of the complexity is medicine prescribed and how the patient reacts to medicines, which is not taken into consideration here Potential for extreme bias and mis-diagnosis; HIPAA concerns; narrow use of LLM; weak data While the submission highlights challenges faced by doctors and proposes an AI solution to streamline doctor-patient interactions, it could provide a more comprehensive understanding of the underlying issues contributing to longer appointment times and physician burnout. Consider conducting in-depth research or consulting healthcare professionals to identify specific pain points and root causes that the AI solution aims to address. Address potential ethical and legal implications associated with the use of AI in healthcare, including issues related to patient consent, data ownership, algorithm bias, and liability. Develop transparent guidelines and policies for responsible AI deployment and usage to mitigate risks and ensure ethical conduct throughout the project lifecycle.
+Recommendations for the team to help them improve upon their prototype.: Well meaning project, however the assumption that psychiatric patients can be easily diagnosed from an LLM analysis of conversation with Dr seems oversimplified and difficult to do in reality - part of the complexity is medicine prescribed and how the patient reacts to medicines, which is not taken into consideration here Incorporate fairness and explainability considerations. Google AIF/360; AIX/360 , LIME, What If, Fair ML, Fair Learn for examples.Creating an AI psychiatrist might be better accomplished in a controled study with consenting patients. Outline the technical architecture and integration process for deploying the AI solution within healthcare settings. Consider scalability and interoperability requirements to accommodate varying clinic workflows and accommodate future expansion or integration with existing healthcare systems. Provide clarity on the sources and availability of datasets leveraged for training and validating the AI model. Ensure compliance with relevant data privacy regulations, such as HIPAA, to protect sensitive patient information and maintain data security throughout the development and deployment phases.
+
+Project Name: 35 - Elixr
+Innovation & Technical Merit (10 points): 7.75
+Impact & Relevance (10 points): 7.75
+User Experience & Accessibility (10 points): 6.5
+Ethical Considerations (10 points): 4.25
+Feasibility & Implementation (10 points): 6.25
+Total Score (50 possible): 32.5
+Comments to help explain your scores.: I really like this idea and think it has transformative.  My low score on the ethrical consideration was strictly because I did not see anything covered regarding patient data security.  That is huge with this kind of use case, and needs to be considered early and often.  Due to that, I was concerned about the implementation because there is a difficult approval process for medicial software.  Otherwise, I thought the prototype was very clean with data well presented.  The plan to work on a specific medicial specialization, neonatal intensive care, to train and tune the model is excellent.  However, it is not clear to me that the MIMIC-IV data contains the right set of information including neo-natal data. Good that this is not a GPT-4 wrapper, as GPT-4 is not acceptable for medical data use.  HIPAA concerns; integration concers; This is migth be better pursued as a controlled  experiment not a product; broad ML mentionsl;  Would like to see use of explain-ability/fairness tools; no mentioned of IoT Make sure to more clearly outline the technical architecture and integration process for deploying the Elixr system within healthcare settings. Consider scalability and interoperability requirements to accommodate varying clinic workflows and support future expansion or integration with existing healthcare systems.  Provide transparency on the sources and accessibility of datasets leveraged for training and validating the AI models. Ensure compliance with healthcare data privacy regulations, such as HIPAA, to safeguard patient confidentiality and privacy throughout the data lifecycle.
+Recommendations for the team to help them improve upon their prototype.: Beyond what I previously mentioned, I would maybe advise the team to aim for something easier when it comes to an initial use case.  When it comes to these kinds of use cases, there is always a balancing act between "shooting for the stars" and "lets go with the low-hanging fruit first". I think its important for users to gain trust in an application like this.  Otherwise, I think the team has done a great job, and the video was very impressive! The plan to work on a specific medicial specialization, neonatal intensive care, to train and tune the model is excellent.  However, it is not clear to me that the MIMIC-IV data contains the right set of information including neo-natal data. Good that this is not a GPT-4 wrapper, as GPT-4 is not acceptable for medical data use.  Incorporate fairness and explainability considerations. Google AIF/360; AIX/360 , LIME, What If, Fair ML, Fair Learn for examples. This idea  migth be better pursued as  in collaboration with a healthcare ERP provider e.g. EPIC, Cerner,… I would recommend incorporating insights from neonatal healthcare professionals and parents of premature babies to ensure that the Elixr system meets their needs and enhances the quality of care delivery. Engage in user testing and feedback sessions to understand user preferences and refine the system accordingly.
+
+Project Name: 36 - ReWear
+Innovation & Technical Merit (10 points): 7.75
+Impact & Relevance (10 points): 7.0
+User Experience & Accessibility (10 points): 8.5
+Ethical Considerations (10 points): 4.75
+Feasibility & Implementation (10 points): 6.75
+Total Score (50 possible): 34.75
+Comments to help explain your scores.: I thought this was a very interesting idea and the prototype was very well thought out.  The environrmental good of this app seemed to get lost, but that might have been intentional… "if we make it cool, they won't even notice it's helping the environment".  The app did seem to require user images of them wearing the clothes, which has the potential for privacy concerns.  There didn't seem to be anything in the PDF or video addressing this and what security would be in place. Determining the actual style result of a combination of clothing might be more difficult than just putting together a combo from the wardrobe - I think providing value with reuse of clothes - yes, but style along with that - harder. Very feasible; novel use of image recognition; this could be a fun application which has environmental relevancy. I would make sure to outline the environmental and ethical concerns of fast fashion and presents ReWear as a solution, it could provide more depth in explaining how AI specifically addresses these issues. Consider elaborating on how AI-driven outfit generation and brand recommendations directly contribute to sustainability and ethical fashion practices. Ensure transparency and compliance with data privacy regulations when sourcing and utilizing datasets for training AI models. Consider diversifying data sources and incorporating diverse fashion styles and preferences to enhance the inclusivity and relevance of outfit recommendations.
+Recommendations for the team to help them improve upon their prototype.: I didn't recall seeing any recommendations in the video regarding sustainable options for new purchases.  There was the recommended section, but details would not be provided.  This would align more with the environmental good.  Maybe some sort of ticker in the app that showing their environmental impact by not purchasing new clothes would help to convey that message.  Lastly, as mentioned, integrating security would be a great next step.  This would also be useful for vision impared people to help them both vary their daily ensemble and validate that everything works together. Enhance the user-centric approach by incorporating insights from potential users, such as fashion enthusiasts and sustainability advocates, to ensure that ReWear meets their preferences and needs. Conduct user testing and feedback sessions to iteratively improve the app's usability and relevance.
+
+Project Name: 38 - BlueLink
+Innovation & Technical Merit (10 points): 5.75
+Impact & Relevance (10 points): 6.0
+User Experience & Accessibility (10 points): 4.75
+Ethical Considerations (10 points): 4.5
+Feasibility & Implementation (10 points): 4.75
+Total Score (50 possible): 25.75
+Comments to help explain your scores.: So my scores were in the middle of the road because I found a disconnect between the information in the Project Information document and video.  The video showed people primarily typing on a keyboard and even what appeared to be a video of the prototype, it was clearly being navigated with a mouse.  It would have been better if the video spent more time showing users the capabilities of the prototype Great vision, needs development, and no real stated reason to need AI. Scaling to other institutions appears problematic, especially tapping into registration systems; would like to have seen data from outside Penn State, as well. I would outline the challenges students face in managing academic responsibilities, it could provide more clarity on how BlueLink specifically addresses these issues. Enhance the explanation of how voice-activated assistance streamlines academic tasks and promotes inclusivity in the learning environment. Enhance the discussion on data privacy and security measures, including encryption protocols, access controls, and compliance with university regulations. Clearly outline the procedures for handling sensitive student information and ensure transparency in data handling practices.
+Recommendations for the team to help them improve upon their prototype.: I'm honestly not sure because I don't have a good understanding of the current state of the prototype.  Scaling to other institutions appears problematic, especially tapping into registration systems; would like to have seen data from outside Penn State, as well. Further emphasize the user experience by incorporating insights from student feedback and usability testing. Ensure that BlueLink's interface is intuitive, accessible, and adaptable to diverse user needs, including those with disabilities or varying levels of technological proficiency.
+
+Project Name: 39 - Farmers Guild LLC
+Innovation & Technical Merit (10 points): 6.0
+Impact & Relevance (10 points): 7.33
+User Experience & Accessibility (10 points): 5.0
+Ethical Considerations (10 points): 5.33
+Feasibility & Implementation (10 points): 5.33
+Total Score (50 possible): 29.0
+Comments to help explain your scores.: Excellent vision, however the scope of the project is currently quite broad to actually effectively implement.  I suggest limiting the scope for better chance of success.  Also, consider limiting the type of harvest, and including the use of drone flyovers/AI to predict crop yield realtime. Focus limited to Penn State. Not clear how the business model scales; vague use of ML Clarify how the proposed solution directly addresses the challenges faced by Penn State in sourcing locally-produced food. Ensure that the document clearly articulates how the integration of AI supports the objectives of promoting local agriculture and sustainability. Clearly articulate the value proposition of the Farmers Guild solution for both farmers and Penn State. Highlight how the platform streamlines the process of sourcing locally-produced food, reduces transportation costs, and contributes to Penn State's sustainability goals.
+Recommendations for the team to help them improve upon their prototype.:  As the business model stands, as you bring on more farmers you returns deminish. Back away from the broker role. Focus on providing a demand assessment for a given college/university/consumer institution to mulitiple  farmers. Emphasize the user experience and engagement strategies to encourage farmers to participate in the program. Provide details on how the platform communicates benefits to farmers, facilitates on-farm interactions, and ensures timely payments. Identify the resource requirements for continued development, including cloud computing services for data storage and processing, security measures to protect sensitive data, and feedback mechanisms for continuous improvement.
+
+Project Name: 40 - Fit AI
+Innovation & Technical Merit (10 points): 6.5
+Impact & Relevance (10 points): 7.0
+User Experience & Accessibility (10 points): 6.0
+Ethical Considerations (10 points): 6.5
+Feasibility & Implementation (10 points): 7.0
+Total Score (50 possible): 33.0
+Comments to help explain your scores.: Excellent idea, however, not sure how this project is different from quite a few other apps available to provide nutritional information- like Noom.   The problem statement lacks specificity regarding the exact nutritional challenges faced by Penn State students. Try to delve deeper into specific issues like access to healthy food options on campus, lack of nutritional education, or the influence of fast-food culture.  The description of the technology stack is clear, but consider expanding on how each component contributes to the functionality of Fit.AI. Additionally, provide insights into how you plan to ensure user privacy and data security, especially regarding the storage of sensitive information.
+Recommendations for the team to help them improve upon their prototype.:  While Fit.AI aims to address nutritional concerns, the explanation of how the app works and its features could be more detailed. Include specifics about how the app guides users, educates them about nutrition, and encourages healthier choices. The use case provided is helpful but could be more detailed. Consider including specific interactions within the app, such as how the user inputs their dietary goals, navigates restaurant options, and interprets nutritional recommendations. Highlight user experience design principles and considerations that informed the development of the iOS application. Discuss how user feedback and usability testing have influenced the app's design and functionality.
+
+Project Name: 42 - Mentor You
+Innovation & Technical Merit (10 points): 5.5
+Impact & Relevance (10 points): 4.5
+User Experience & Accessibility (10 points): 4.0
+Ethical Considerations (10 points): 5.5
+Feasibility & Implementation (10 points): 5.0
+Total Score (50 possible): 24.5
+Comments to help explain your scores.:  Provide more details about how the AI algorithms mitigate biases in reviews and analyze feedback to provide nuanced insights. Clarify how the platform distinguishes between objective and subjective information to ensure the reliability of recommendations.  This could include scenarios for exploring specific course attributes or comparing multiple courses.  Provide more details about how Firebase, PySpark, and LLM are integrated into the platform architecture. Explain how these technologies contribute to data processing, analysis, and user interaction.
+Recommendations for the team to help them improve upon their prototype.:  The use case provided is effective, but consider adding scenarios that illustrate how the platform addresses different user needs or concerns. hare insights into the platform's user interface design principles, usability testing process, and user feedback mechanisms. Explain how user feedback is incorporated into iterative improvements to enhance the overall user experience.
+
+Project Name: 43 - ClarifiEd
+Innovation & Technical Merit (10 points): 6.5
+Impact & Relevance (10 points): 5.0
+User Experience & Accessibility (10 points): 5.0
+Ethical Considerations (10 points): 4.5
+Feasibility & Implementation (10 points): 6.0
+Total Score (50 possible): 27.0
+Comments to help explain your scores.:  Clarify how ClarifiEd's AI-driven chatbot operates in more detail. Describe the user experience flow, including how students interact with the chatbot to receive personalized academic assistance. Additionally, explain how the chatbot analyzes lecture materials and identifies relevant sections to provide targeted responses. Consider providing more specific examples or anecdotes illustrating how students and educators currently struggle with office hours and adapting teaching methods. This can help stakeholders better understand the real-world implications of the challenges you aim to address.
+Recommendations for the team to help them improve upon their prototype.: My concern about this product is its dependency on information provided by the professor.  I think it would be good to highlight if there alternatives to building out class information without  their resources.  If that’s not something currenty considered, it may be worthwihle to do so in order for students to get this most value from it. Discuss how user feedback and usability testing will inform iterative improvements to ClarifiEd's interface and functionality. Highlight the importance of prioritizing user-centered design principles to enhance user satisfaction and adoption rates. While the provided use case is effective, consider including scenarios that demonstrate how ClarifiEd can support different types of inquiries or learning preferences. This could involve scenarios for collaborative learning, exam preparation, or accessing additional resources beyond lecture materials.
+
+Project Name: 45 - PackWise
+Innovation & Technical Merit (10 points): 7.0
+Impact & Relevance (10 points): 8.0
+User Experience & Accessibility (10 points): 6.0
+Ethical Considerations (10 points): 5.0
+Feasibility & Implementation (10 points): 6.0
+Total Score (50 possible): 32.0
+Comments to help explain your scores.: Provide more details on how Microsoft Azure and other selected AI platforms contribute to the development and deployment of PackWise. Discuss how these platforms enable scalability, reliability, and performance optimization to meet user demands and industry standards. Elaborate on how PackWise integrates with 3D printing technology to optimize container design and reduce packaging material waste. Highlight the benefits of this integration for both suppliers and customers, emphasizing cost savings and environmental sustainability.
+Recommendations for the team to help them improve upon their prototype.: While the provided use case at a retailer outlet is effective, consider including scenarios that demonstrate the broader applicability of your solution across different industries or settings. For example, explore how PackWise can optimize packaging for e-commerce shipments or household storage solutions.
+
+Project Name: 48 - EVE
+Innovation & Technical Merit (10 points): 7.0
+Impact & Relevance (10 points): 4.0
+User Experience & Accessibility (10 points): 6.0
+Ethical Considerations (10 points): 3.0
+Feasibility & Implementation (10 points): 4.0
+Total Score (50 possible): 24.0
+Comments to help explain your scores.: very creative video
+Recommendations for the team to help them improve upon their prototype.: 
+
+Project Name: 49 - CARL 
+Innovation & Technical Merit (10 points): 6.0
+Impact & Relevance (10 points): 4.0
+User Experience & Accessibility (10 points): 6.0
+Ethical Considerations (10 points): 6.0
+Feasibility & Implementation (10 points): 6.0
+Total Score (50 possible): 28.0
+Comments to help explain your scores.: 
+Recommendations for the team to help them improve upon their prototype.: 
+
+Project Name: 50 - PlantMore
+Innovation & Technical Merit (10 points): 5.0
+Impact & Relevance (10 points): 5.0
+User Experience & Accessibility (10 points): 6.0
+Ethical Considerations (10 points): 5.0
+Feasibility & Implementation (10 points): 5.0
+Total Score (50 possible): 26.0
+Comments to help explain your scores.: This is an interesting idea.  There is a fundamental issue with data collection that may ultimately limit feasibility - it relies on the ability to measure and/or predict recent climate changes and trends in very data poor environments.  
+Recommendations for the team to help them improve upon their prototype.: It's not guaranteed that users will have reliable internet access so designing the app to have a stand-alone mode could help its reach. 
+
